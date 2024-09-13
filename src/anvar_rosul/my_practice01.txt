@@ -5,3 +5,5 @@
 today is Sep 13
 
 always update before push
+
+commit - update - push
