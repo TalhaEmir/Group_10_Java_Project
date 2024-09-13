@@ -5,5 +5,8 @@ public class Test1 {
 
         String str = "Hello World";
         System.out.println("Hello World");
+
+
+        //Great practice
     }
 }
