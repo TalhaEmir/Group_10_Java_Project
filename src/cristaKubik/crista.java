@@ -14,6 +14,8 @@ public class crista {
         students.put("Anvar" , 005);
         students.put("Taieb", 006);
         System.out.println(students.size());
+        System.out.println(students.get("Crista"));
+
 
 
     }
