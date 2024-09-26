@@ -1,6 +1,6 @@
-package TalhaDogan.FirstQuestions;
+package TalhaDogan;
 
-public class OddOrEven {
+public class Week1_Q01_OddOrEven {
 
     public static void main(String[] args) {
 
@@ -31,4 +31,16 @@ public class OddOrEven {
 
     }
 
+    public static class InvalidValueException extends RuntimeException {
+
+            public InvalidValueException(){
+                super("Invalid value");
+            }
+
+            public InvalidValueException(String message){
+                super(message);
+            }
+
+
+        }
 }
